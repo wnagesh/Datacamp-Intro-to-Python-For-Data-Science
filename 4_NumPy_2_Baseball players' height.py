@@ -4,7 +4,7 @@
 import numpy as np
 
 # Create a numpy array from height: np_height
-np_height=np.array(height)
+np_height=np.array(height_in)
 
 # Print out np_height
 print(np_height)
